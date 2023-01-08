@@ -160,7 +160,7 @@ a {
 }
 
 .main h3 {
-    font-size: 40px;
+    font-size: 10px;
     text-align: center;
     color: #fff;
     margin-bottom: 30px;
@@ -267,9 +267,7 @@ p.footer a:hover {
         font-size: 36px
     }
 
-      .main h3 {
-        font-size: 36px
-    }
+   
     
     .content-top h2 {
         font-size: 20px;
@@ -286,9 +284,7 @@ p.footer a:hover {
         font-size: 34px
     }
     
- .main h3 {
-        font-size: 34px
-    }
+
     
     .content {
         width: 46%
@@ -304,9 +300,7 @@ p.footer a:hover {
         margin-bottom: 55px
     }
     
-     .main h3 {
-        margin-bottom: 55px
-    }
+ 
 
     p.footer {
         margin-top: 75px
@@ -318,11 +312,9 @@ p.footer a:hover {
         padding: 70px 0
     }
 
-    .main h1 {
-        margin-bottom: 45px
-    }
+  
 
-      .main h3 {
+      .main h1 {
         margin-bottom: 45px
     }
     
@@ -341,10 +333,7 @@ p.footer a:hover {
         margin-bottom: 35px
     }
 
-     .main h3 {
-        font-size: 32px;
-        margin-bottom: 35px
-    }
+ 
     
     .main {
         padding: 60px 0
@@ -364,9 +353,7 @@ p.footer a:hover {
         font-size: 30px
     }
 
-    .main h3 {
-        font-size: 30px
-    }
+  
     
     .content-top {
         padding: 1em
@@ -392,9 +379,7 @@ p.footer a:hover {
         font-size: 28px
     }
 
-     .main h3 {
-        font-size: 28px
-    }
+ 
     
     p.footer {
         margin-top: 42px
@@ -426,9 +411,7 @@ p.footer a:hover {
         font-size: 27px
     }
 
-     .main h3 {
-        font-size: 27px
-    }
+  
 
     
     .content, p.footer {
@@ -446,10 +429,7 @@ p.footer a:hover {
         margin-bottom: 25px
     }
     
-     .main h3 {
-        font-size: 26px;
-        margin-bottom: 25px
-    }
+   
 
     .main {
         padding: 45px 0
@@ -470,10 +450,7 @@ p.footer a:hover {
         margin-bottom: 30px
     }
 
-     .main h3 {
-        font-size: 24px;
-        margin-bottom: 30px
-    }
+   
     
     .content-top ul li {
         padding: 1em 0 1em 1em;
