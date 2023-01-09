@@ -31,7 +31,7 @@ a {
 .wrapper {
     background: #01a982;
     background: linear-gradient(to bottom right, #01a982 0, #60ae80 100%);
-    overflow: hidden;
+     /*overflow: hidden;*/
 }
 
 .bg-bubbles, .wrapper {
