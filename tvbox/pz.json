@@ -84,15 +84,6 @@
   ],
   "sites": [
     {
-      "key": "360",
-      "name": "360",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "nbys",
       "name": "泥巴(墙)",
       "type": 3,
