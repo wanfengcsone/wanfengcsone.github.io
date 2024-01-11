@@ -1,6 +1,7 @@
-{ "urls": [ { "url": "http://wfone.web3v.vip/e/js.json
-", "name": "晚风线路（自建）" }, 
- { "url": "http://肥猫.live", "name": "肥猫" }, 
+{ "urls": 
+[ 
+{ "url": "http://wfone.web3v.vip/e/js.json", "name": "晚风线路（自建）" }, 
+{ "url": "http://肥猫.live", "name": "肥猫" }, 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" }, 
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
 { "url": "https://fm.t4tv.hz.cz/json/config.json", "name": "FongMi" }, 
