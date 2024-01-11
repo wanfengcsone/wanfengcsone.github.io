@@ -1,0 +1,18 @@
+{ "urls": [ { "url": "http://肥猫.live", "name": "肥猫" }, 
+{ "url": "http://饭太硬.top/tv", "name": "饭太硬" }, 
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
+{ "url": "https://fm.t4tv.hz.cz/json/config.json", "name": "FongMi" }, 
+{ "url": "https://wds.ecsxs.com/230989.json", "name": "春盈天下" },
+{ "url": "https://100km.top/0", "name": "纯一骚零" }, 
+{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" }, 
+{ "url": "https://download.kstore.space/download/5242/冉神.json", "name": "冉神接口" }, 
+{ "url": "http://tvkj.top/DC/tvys/svip.json", "name": "天微影视" },
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
+{ "url": "http://jin.锦哥哥.love", "name": "一十线路" },
+{ "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json", "name": "云星日记" },
+{ "url": "http://home.jundie.top:81/top98.json", "name": "俊佬" },
+{ "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "讴歌" }, 
+{ "url": "http://52bsj.vip:98/wuai", "name": "吾爱" }, 
+{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" }
+]
+}
