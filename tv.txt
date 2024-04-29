@@ -6,7 +6,7 @@
 { "url": "http://肥猫.live", "name": "【推荐】肥猫" },
 { "url": "http://52bsj.vip:98/wuai", "name": "【推荐】吾爱" },
 { "url": "http://饭太硬.top/tv", "name": "【推荐】饭太硬" }, 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" }, 
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "【推荐】小米" }, 
 { "url": "https://wds.ecsxs.com/230989.json", "name": "春盈天下" },
 { "url": "https://100km.top/0", "name": "纯一骚零" }, 
 { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" }, 
