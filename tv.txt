@@ -6,7 +6,7 @@
 { "url": "http://肥猫.live", "name": "【推荐】肥猫" },
 { "url": "https://www.yingm.cc/subscribe/xb.json
 ", "name": "【推荐】影迷" },
-{ "url": "http://饭太硬.top/tv", "name": "【推荐】饭太硬" }, 
+{ "url": "http://饭太硬.com/tv", "name": "【推荐】饭太硬" }, 
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "【推荐】小米" }, 
 { "url": "https://100km.top/0", "name": "纯一骚零" }, 
 { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" }, 
