@@ -1,8 +1,7 @@
 { "urls": 
 [ 
 { "url": "http://wfone.web3v.vip/e/js.json", "name": "【自建】晚风线路" },
-{ "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json
-", "name": "【推荐】南风" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "【推荐】南风" },
 { "url": "http://肥猫.live", "name": "【推荐】肥猫" },
 { "url": "https://www.yingm.cc/subscribe/xb.json
 ", "name": "【推荐】影迷" },
