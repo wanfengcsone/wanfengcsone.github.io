@@ -9,7 +9,7 @@
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "【推荐】小米" }, 
 { "url": "https://100km.top/0", "name": "纯一骚零" }, 
 { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" }, 
-{ "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json", "name": "云星日记" },
+{ "url": "https://tv.xn--yhqu5zs87a.top/", "name": "莱妮丝" },
 { "url": "http://i.rdhk.net/new/tv.json", "name": "pg线路" },
 { "url": "https://fm.t4tv.hz.cz/json/config.json", "name": "FongMi" }
 ]
